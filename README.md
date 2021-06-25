@@ -1,4 +1,4 @@
-# Semana 7 
+# Semana 7  🚀
 Nesta semana o propósito da atividade foi aprender a utilizar o método GET com os comandos necessários  criar nosso próprio servidor com Node.js. 
 
 ## Exemplo prático
